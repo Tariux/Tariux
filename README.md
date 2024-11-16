@@ -1,6 +1,5 @@
 <h3 align="left"><  body  ></h3>
 <p>- 📫 How to reach me **Tariux@protonmail.com**</p>  
-<span>- 📄 Know about my experiences [https://flowcv.com/resume/dvtno4nptp](https://flowcv.com/resume/dvtno4nptp)</span>
 <h3 align="left"><  /body  ></h3>
 
 <h3 align="left"><  contact  ></h3>
